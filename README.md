@@ -1,4 +1,4 @@
-Hi, I am Bruno, a web developer.
+Hi, I am Bruno, a software developer.
 Please feel free to check my repositories.
 
 If you want to know more about me:
